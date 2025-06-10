@@ -53,7 +53,7 @@ If you use this code, please cite both the paper and this repository:
 }
 ```
 
-The Zenodo DOI badge (see *About* panel) will appear after the first GitHub release.
+The Zenodo DOI badge: DOI: 10.5281/zenodo.15629274
 
 ## License
 
