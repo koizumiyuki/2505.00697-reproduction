@@ -7,8 +7,8 @@ This repository contains the Jupyter notebooks and auxiliary scripts required to
 ```text
 .
 ├── notebooks/              # All Jupyter notebooks used to generate figures
-│   ├── plot_figure2_2505.00697.ipynb
-│   └── plot_figure3_2505.00697.ipynb
+│   ├── plot_figure2_2505.00697.ipynb
+│   └── plot_figure3_2505.00697.ipynb
 ├── data/                   # Input datasets (kept small; larger data via Zenodo DOI)
 ├── requirements.txt        # Exact package versions for pip users
 ├── LICENSE                 # MIT by default—feel free to change
@@ -27,7 +27,6 @@ $ pip install -r requirements.txt
 # 3. Launch notebooks & run all cells
 $ jupyter lab  # or: jupyter notebook
 ```
-
 
 ## Dependencies
 
