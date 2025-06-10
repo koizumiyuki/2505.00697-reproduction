@@ -53,7 +53,7 @@ If you use this code, please cite both the paper and this repository:
 }
 ```
 
-The Zenodo DOI badge: DOI: 10.5281/zenodo.15629274
+[![DOI](https://zenodo.org/badge/999365026.svg)](https://doi.org/10.5281/zenodo.15629273)
 
 ## License
 
